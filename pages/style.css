@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: blueviolet;
+    margin-top: 250px;
+    
+}
+#converter {
+    margin: 30px;
+    background-color: aquamarine;
+}
+label{
+    margin: 10px;
+}
+
+input[type="number"] {
+    width: 200px;
+    height: 20px;
+}
+button{
+    margin-top: 10px;
+   
+}
+
+#result {
+    font-weight: bold;
+}
